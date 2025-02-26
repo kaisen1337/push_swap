@@ -147,4 +147,4 @@ This project is part of the 42 School curriculum and is for educational purposes
 
 ---
 
-*Created by **[your_username]** - Feel free to contact me for any questions!*
+*Created by **[kaisen1337]** - Feel free to contact me for any questions!*
